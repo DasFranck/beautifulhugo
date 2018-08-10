@@ -140,6 +140,11 @@ img {
   color: #404040;
 }
 
+code {
+  background-color: #272822;
+  color: #ffffcc;
+}
+
 /* --- Navbar --- */
 
 .navbar-custom {
