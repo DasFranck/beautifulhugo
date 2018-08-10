@@ -136,6 +136,10 @@ img {
   }
 }
 
+.fa-inverse {
+  color: #404040;
+}
+
 /* --- Navbar --- */
 
 .navbar-custom {
